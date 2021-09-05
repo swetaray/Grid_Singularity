@@ -1,0 +1,9 @@
+{"baseUrl": "https://www.d3a.io/",
+    "env": {
+      "url": "login"
+      
+    },
+    "defaultCommandTimeout":4000,
+    "viewportWidth": 1200,
+    "viewportHeight": 720
+}
